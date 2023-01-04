@@ -59,7 +59,7 @@ print(nombre, apellido, hombre)
 
 # Entrada de datos por consola
 # input, este método nos permite ingresar datos por consola con el teclado
-# sin embargo, dicen que no es muy utilizado
+# sin embargo, dicen que no es muy utilizado y por lo tanto, muy poco recomendado
 nombre = input("Ingresa tu nombre: ")
 apellido = input("Ingresa tu apellido: ")
 edad = input("Ingresa tu edad: ")
